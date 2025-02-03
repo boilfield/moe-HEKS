@@ -180,8 +180,8 @@ body, html {
 /* circular image */
 /* Style for circular image */
 .circular-image {
-    width: 80px; /* Adjust size as needed */
-    height: 80px; /* Adjust size as needed */
+    width: 120px; /* Adjust size as needed */
+    height: 120px; /* Adjust size as needed */
     border-radius: 50%; /*Makes the image circular*/
     overflow: hidden;
 }
